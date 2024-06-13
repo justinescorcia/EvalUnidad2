@@ -297,4 +297,27 @@
         </div>
     </div> -->
     </div>
+    <footer>
+        <piepagina></piepagina>
+    </footer>
 </template>
+<script>
+import piepagina from './piepagina.vue'
+
+
+export default {
+    components:{
+        piepagina
+    }
+} 
+</script>
+
+<style>
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+</style>

@@ -46,8 +46,90 @@
             </select>
         </div>
         <div>
+            <label for="tipoSangre" class="block text-gray-700 dark:text-white mb-1">Tipo de Sangre</label>
+            <select id="tipoSangre" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required>
+                <option selected>Selecciona tu tipo de sangre</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+                <option value="A+">A+</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B-">B-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+            </select>
+        </div>
+        <div>
+            <label for="tipoSangre" class="block text-gray-700 dark:text-white mb-1">Tipo de Sangre</label>
+            <select id="tipoSangre" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required>
+                <option selected>Selecciona tu tipo de sangre</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+                <option value="A+">A+</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B-">B-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+            </select>
+        </div>
+        <div>
+            <label for="tipoSangre" class="block text-gray-700 dark:text-white mb-1">Tipo de Sangre</label>
+            <select id="tipoSangre" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required>
+                <option selected>Selecciona tu tipo de sangre</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+                <option value="A+">A+</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B-">B-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+            </select>
+        </div>
+        <div>
             <label for="alergias" class="block text-gray-700 dark:text-white mb-1">Alergias</label>
             <textarea id="alergias" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="enfermedades" class="block text-gray-700 dark:text-white mb-1">Enfermedades Crónicas</label>
+            <textarea id="enfermedades" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="medicamentosR" class="block text-gray-700 dark:text-white mb-1">Medicamentos Recetados</label>
+            <textarea id="medicamentosR" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="enfermedades" class="block text-gray-700 dark:text-white mb-1">Enfermedades Crónicas</label>
+            <textarea id="enfermedades" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="medicamentosR" class="block text-gray-700 dark:text-white mb-1">Medicamentos Recetados</label>
+            <textarea id="medicamentosR" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="enfermedades" class="block text-gray-700 dark:text-white mb-1">Enfermedades Crónicas</label>
+            <textarea id="enfermedades" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="medicamentosR" class="block text-gray-700 dark:text-white mb-1">Medicamentos Recetados</label>
+            <textarea id="medicamentosR" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="enfermedades" class="block text-gray-700 dark:text-white mb-1">Enfermedades Crónicas</label>
+            <textarea id="enfermedades" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="medicamentosR" class="block text-gray-700 dark:text-white mb-1">Medicamentos Recetados</label>
+            <textarea id="medicamentosR" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="enfermedades" class="block text-gray-700 dark:text-white mb-1">Enfermedades Crónicas</label>
+            <textarea id="enfermedades" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
+        </div>
+        <div>
+            <label for="medicamentosR" class="block text-gray-700 dark:text-white mb-1">Medicamentos Recetados</label>
+            <textarea id="medicamentosR" class="w-full rounded-lg border py-2 px-3 dark:bg-gray-700 dark:text-white dark:border-none"></textarea>
         </div>
         <div>
             <label for="enfermedades" class="block text-gray-700 dark:text-white mb-1">Enfermedades Crónicas</label>
